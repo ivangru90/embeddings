@@ -14,11 +14,11 @@ Model trained on 1000 epochs, Intel Core i5 2.40Ghz CPU. For training data used 
 
 ### Ngram model
 
-![image info](./images/ngram_training.png)
+![image info](./images/ngram_trainingloss.png)
 
 ### CBOW model
 
-![image info](./images/cbow_training.png)
+![image info](./images/cbow_trainingloss.png)
 
 ## Further improvements
 
